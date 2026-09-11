@@ -1,4 +1,6 @@
 {
-  "revoked_machine_ids": [],
+  "revoked_machine_ids": [
+    "TEST-PC"
+  ],
   "message": "This site is no longer licensed. Contact the supplier."
 }
